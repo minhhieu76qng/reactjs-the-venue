@@ -42,7 +42,7 @@ class Discount extends Component {
                 quidem eius maxime quisquam!
               </p>
               <MyButton
-                label="my button"
+                label="Purchase tickets"
                 bck_button="#ffa800"
                 color="#ffffff"
                 link="https://www.google.com"
