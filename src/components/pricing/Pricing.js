@@ -73,9 +73,9 @@ class Pricing extends Component {
               <span>{box.position}</span>
             </div>
             <div className="pricing_description">{box.description}</div>
-            <div className="pricing_button">
+            <div className="pricing_buttons">
               <MyButton
-                label="Purchase tickets"
+                label="Purchase"
                 color="#fff"
                 bck_button="#ffa800"
                 link={box.link}
