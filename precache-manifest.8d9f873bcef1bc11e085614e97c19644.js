@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96d0cf425dcea75cd68316a76e30ed03",
+    "revision": "31f4659561661eb1041f47a771a8fadb",
     "url": "/the-venue/index.html"
   },
   {
-    "revision": "63f23696e7cd42fcd801",
-    "url": "/the-venue/static/css/main.6c958b7d.chunk.css"
+    "revision": "e601db44ed392dfcc028",
+    "url": "/the-venue/static/css/main.e2c6f148.chunk.css"
   },
   {
     "revision": "79926f5e383c523b8339",
     "url": "/the-venue/static/js/2.956ace8c.chunk.js"
   },
   {
-    "revision": "63f23696e7cd42fcd801",
+    "revision": "e601db44ed392dfcc028",
     "url": "/the-venue/static/js/main.31789a21.chunk.js"
   },
   {

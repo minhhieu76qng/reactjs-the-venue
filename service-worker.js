@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-venue/precache-manifest.e9bec9e7bc22e948f1302b4735aeea70.js"
+  "/the-venue/precache-manifest.8d9f873bcef1bc11e085614e97c19644.js"
 );
 
 self.addEventListener('message', (event) => {
